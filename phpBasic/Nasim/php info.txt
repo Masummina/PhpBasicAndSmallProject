@@ -1,0 +1,3 @@
+create Database account: phpmasum
+database name: estmasum
+pass: Estmasum@2019
